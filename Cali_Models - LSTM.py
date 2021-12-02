@@ -36,7 +36,7 @@ print('Train:', hists_train.shape, yields_train.shape)
 print('Validate:', hists_val.shape, yields_val.shape)
 
 
-# CNN-LSTM
+# LSTM
 
 import tensorflow as tf
 from tensorflow.keras import layers, models
